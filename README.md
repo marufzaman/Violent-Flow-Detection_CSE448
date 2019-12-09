@@ -1,4 +1,4 @@
-# cViolent Flow Detection.
+# Violent Flow Detection.
 
 ### Project Summary: This is module to detect violent crowd flow.
 
